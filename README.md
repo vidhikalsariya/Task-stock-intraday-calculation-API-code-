@@ -1,7 +1,7 @@
 # Task-stock-intraday-calculation-API-code-
 This project is a simple and powerful Intraday PnL (Profit &amp; Loss) Calculation API built using Flask, Pandas, and YFinance. It downloads 1-minute stock data from Yahoo Finance and calculates the PnL between selected entry and exit times for every trading day in the selected date range.
 
-Features
+# Features
 
 Fetch 1-minute intraday data using yfinance
 Automatically detect nearest entry and exit candles
@@ -13,7 +13,7 @@ Easy to integrate with:
   Backtesting tools
   Mobile or Web apps
 
-How Your Code Works (Simple Explanation)
+# How Your Code Works (Simple Explanation)
 
 Let's break your code in simple English.
 🔹 1. Import Required Libraries
@@ -72,7 +72,7 @@ return jsonify({
 })
 API returns JSON output.
 
-How to Run This Flask API (Step-by-Step)
+# How to Run This Flask API (Step-by-Step)
 Follow these steps exactly.
 
 🟩 STEP 1 — Install Python Libraries
